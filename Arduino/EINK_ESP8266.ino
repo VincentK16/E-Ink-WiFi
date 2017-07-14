@@ -5,6 +5,7 @@
 #include <SmartEink.h>
 #include <SPI.h>
 
+//Test case
 E_ink Eink;
 
 const char* ssid = "Edge";
