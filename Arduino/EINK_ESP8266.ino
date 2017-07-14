@@ -69,7 +69,7 @@ void handleNotFound(){
   }
   server.send(404, "text/plain", message);
 }
-
+//This is setup code
 void setup(void){
   pinMode(5,OUTPUT);
   pinMode(4,OUTPUT);
